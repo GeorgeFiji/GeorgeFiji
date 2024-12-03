@@ -9,7 +9,19 @@
 ---
 
 ## Programming Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFiji&layout=compact&theme=radical&hide=swift,csharp)  
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeFiji&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeFiji&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeorgeFiji&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</tabl
+
+
 
 ## Programming  Learnt
 <p align="left"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++" height="50" width="50" /> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="Java" height="50" width="50" /> <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#" height="50" width="50" /> </p>
