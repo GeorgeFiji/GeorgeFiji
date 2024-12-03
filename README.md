@@ -33,10 +33,7 @@
 <p align="left">  
    <img src="https://github.com/user-attachments/assets/1b7f3b16-4594-4de0-af9b-a964222545f2" alt="Spring Boot" height="50" width="100" />
    <img src="https://github.com/user-attachments/assets/131933ad-5606-4035-b6f3-86e0ec929149" alt="Oracle" height="50" width="100" />
-
-   
-
-
+   <img src ="https://github.com/user-attachments/assets/2b6ce688-803d-44ee-bcb7-13bc5b14df4d" alt ="MYSQL" height="50" width="100" />
 
 </p>
 
