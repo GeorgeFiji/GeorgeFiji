@@ -32,8 +32,9 @@
 ## Technologies
 <p align="left">  
    <img src="https://github.com/user-attachments/assets/1b7f3b16-4594-4de0-af9b-a964222545f2" alt="Spring Boot" height="50" width="100" />
-   ![image](https://github.com/user-attachments/assets/9c751c44-f339-4419-87ec-52a5a3374fef)
-      <img src="https://github.com/user-attachments/assets/1b7f3b16-4594-4de0-af9b-a964222545f2 alt="Spring Boot" height="50" width="100" />
+   <img src="https://github.com/user-attachments/assets/131933ad-5606-4035-b6f3-86e0ec929149" alt="Oracle" height="50" width="100" />
+
+   
 
 
 
