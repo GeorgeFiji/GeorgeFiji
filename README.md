@@ -29,5 +29,12 @@
 
 ---
 
+## Technologies
+<p align="left">  
+  ![springboots](https://github.com/user-attachments/assets/2b8ac25d-5744-409b-a1e2-d79ac6fe4a71)
+
+</p>
+
+
 
 
