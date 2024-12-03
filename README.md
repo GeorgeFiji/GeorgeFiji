@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeorgeFiji&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
-</tabl
+</table>
 
 
 
