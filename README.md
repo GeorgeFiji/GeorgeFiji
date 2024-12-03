@@ -31,7 +31,8 @@
 
 ## Technologies
 <p align="left">  
-  ![springboots](https://github.com/user-attachments/assets/2b8ac25d-5744-409b-a1e2-d79ac6fe4a71)
+   <img src="https://github.com/user-attachments/assets/6118e13d-4dfd-4101-b9b4-7c1235731e88" alt="Spring Boot" height="50" width="50" />
+
 
 </p>
 
