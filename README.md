@@ -31,7 +31,7 @@
 
 ## Technologies
 <p align="left">  
-   <img src="https://github.com/user-attachments/assets/1b7f3b16-4594-4de0-af9b-a964222545f2" alt="Spring Boot" height="50" width="50" />
+   <img src="https://github.com/user-attachments/assets/1b7f3b16-4594-4de0-af9b-a964222545f2" alt="Spring Boot" height="50" width="100" />
 
 
 </p>
