@@ -38,7 +38,8 @@
    <img src="https://github.com/user-attachments/assets/131933ad-5606-4035-b6f3-86e0ec929149" alt="Oracle" height="50" width="100" />
    <img src ="https://github.com/user-attachments/assets/2b6ce688-803d-44ee-bcb7-13bc5b14df4d" alt ="MYSQL" height="50" width="100" />
     <img src="https://github.com/user-attachments/assets/8a8dda40-3bce-4be9-8622-f8ea91dd31e4" alt ="MSQLS" height="50" width="100"/>
-    <img src ="https://github.com/user-attachments/assets/d87ce589-420c-4f8f-877c-e57612125439" alt="WordPress" height="50" width="100"/>
+    <img src ="https://github.com/user-attachments/assets/f902b6cf-8126-496f-9096-467b748cab92" alt="WordPress" height="50" width="100"/>
+
 
   
 
