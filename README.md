@@ -16,5 +16,3 @@
 </tr>
 </table>
 
- <img src="https://streak-stats.demolab.com?user=GeorgeFiji&theme=nightowl&hide_border=true" alt="GitHub Streak" />
- 
