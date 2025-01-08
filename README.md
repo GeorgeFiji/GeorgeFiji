@@ -8,6 +8,8 @@
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GeorgeFiji&theme=nightowl&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeFiji&theme=nightowl" alt="GitHub Streak Stats" />
+
     
 </td>
 <td width="50%" align="center">
