@@ -13,11 +13,4 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeorgeFiji&theme=nightowl&hide_border=false&langs_count=11" alt="Top Languages" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeFiji&theme=dark" alt="GitHub Streak" />
-    </a>
-</td>
-</tr>
 </table>
