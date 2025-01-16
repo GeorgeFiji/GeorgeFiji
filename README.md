@@ -6,6 +6,7 @@
 <tr>
   <td align="center" width="50%">
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeFiji&theme=nightowl&hide_border=true&border_radius=10" alt="Streak Stats" />
+    </br>
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=GeorgeFiji&count_private=true&show_icons=true&theme=nightowl&border_radius=10" alt="Readme Stats" />
   </td>
   <td align="center" width="50%">
