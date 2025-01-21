@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=GeorgeFiji&color=green)
 
-# George - Software Engineer Student
+# George - Software Engineer Student 
 
 <table align="center">
 <tr>
