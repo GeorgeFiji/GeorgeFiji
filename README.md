@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=GeorgeFiji&color=green)
 
-# George - Software Engineer Student at University of the South Pacific
-
-# Fiji
+# George - Software Engineer Student at University of the South Pacific Fiji
 
 
 <table align="center">
