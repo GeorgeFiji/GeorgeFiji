@@ -3,6 +3,7 @@
 # George - Software Engineer Student at University of the South Pacific Fiji
 
 
+
 <table align="center">
 <tr>
   <!-- Left Column: Streak Stats and Readme Stats -->
