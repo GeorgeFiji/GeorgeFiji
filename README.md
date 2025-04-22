@@ -4,6 +4,7 @@
 
 
 
+
 <table align="center">
 <tr>
   <!-- Left Column: Streak Stats and Readme Stats -->
